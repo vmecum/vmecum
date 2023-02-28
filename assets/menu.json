@@ -194,10 +194,6 @@
               {
                     "label": "Política Nacional de Resíduos Sólidos",
                     "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/d8437.htm"
-              },
-              {
-                    "label": "Resoluções do CONAMA",
-                    "url": "http://conama.mma.gov.br/atos-normativos-sistema"
               }
             ]
       },
@@ -338,10 +334,6 @@
             "url": "https://www.planalto.gov.br/ccivil_03/Leis/L8213cons.htm"
           }
         ]
-      },
-      {
-        "label": "Súmulas e Jurisprudências do STF",
-        "url": "https://jurisprudencia.stf.jus.br/pages/search"
       }
     ]
   }
