@@ -1,0 +1,56 @@
+ .iframe-wrapper iframe {
+     position: absolute;
+     top: 10%;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     height: 90%;
+     z-index:0;
+     
+ }
+
+ #home {
+     background-image: url("./bg.jpg");
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: right top;
+     overflow: hidden;
+ }
+
+ .mask {
+     background-color: rgba(0, 0, 0, 0.8);
+         height: 100vh;
+         position: fixed;
+         top: 0;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         z-index: -1;
+ }
+
+ footer {
+     text-align: center;
+     background: #222;
+     color: white;
+     font-size: 14px;
+ }
+
+ footer a {
+     color: yellow;
+ }
+
+ footer a:hover {
+     color: red;
+ }
+
+ .sumario>li {
+    font-size: 1.25rem;
+ }
+
+ .sumario>li>h5 {
+    margin-top: 20px;
+ }
+
+ .sumario>li>ul>li {
+    font-size: 1rem;
+ }
